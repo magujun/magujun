@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![counter](https://enojroefpg6239j.m.pipedream.net)
 <!--
 **magujun/magujun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/magujun/count.svg)
+
 
